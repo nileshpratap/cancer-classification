@@ -13,3 +13,4 @@ nnUNet_train DATASET_NAME_OR_ID UNET_CONFIGURATION FOLD --val --npz
 
 command for inference of the model
 nnUNet_predict -i INPUT_FOLDER -o OUTPUT_FOLDER -d DATASET_NAME_OR_ID -c CONFIGURATION --save_probabilities
+
