@@ -1,0 +1,4 @@
+Link : https://drive.google.com/drive/folders/1TqNkfKidlc02KGr25146I4T1tI98bwRm?usp=drive_link
+Folder contains final preprocessed data with all subfolders (imageTr, imageTs, labelsTr, labelsTs). All data are in nifti (.nii.gz) file format. 
+Zip Extractor is needed to open file.
+3d slicer software required for viewing nifti files.
